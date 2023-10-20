@@ -1,19 +1,17 @@
 ### 温度グラフの生成
 ---
-Flow
-
+#### ファイルの準備
+テキストファイルをダウンロードしtemp_graph直下に格納する。
+1.Marge.batを実行しファイルをマージする
+（マージ前のファイルはdatフォルダに格納される）
 <img src="https://github.com/TA1851/temp_graph/blob/main/img/marge.PNG">
 
-File 構成
-
+---
+#### 処理の流れ 
 <img src="https://github.com/TA1851/temp_graph/blob/main/img/%E3%83%95%E3%83%AD%E3%83%BC.PNG">
 
-* Marge.bat -> File Margeとdat フォルダの作成
-  * server からDownloadしてきたファイルを新規作成したフォルダに格納し、Marge.batを実行する。
-  * Marge.batを実行すると、温度log(.dat)をmargeしてMarge.logを生成してdat フォルダを生成する。
-  * dat フォルダには、Downloadしてきたファイルを格納する。
-
-* csv_create.xlsm -> Marge.logをデータ整形し、csv fileに変換する
+---
+csv_create.xlsm -> Marge.logをデータ整形し、csv fileに変換する
 
 ---
 #### Graph Create
