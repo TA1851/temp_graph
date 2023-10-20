@@ -2,8 +2,11 @@
 ---
 #### ファイルの準備
 テキストファイルをダウンロードしtemp_graph直下に格納する。
+
 1.Marge.batを実行しファイルをマージする
+
 （マージ前のファイルはdatフォルダに格納される）
+
 <img src="https://github.com/TA1851/temp_graph/blob/main/img/marge.PNG">
 
 ---
