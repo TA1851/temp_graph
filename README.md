@@ -20,9 +20,7 @@ csv_create.xlsm -> Marge.logをデータ整形し、csv fileに変換する
 #### Graph Create
 
 ---
-Flow
 
-<img src="https://github.com/TA1851/ACR_Single_TempGraph/blob/main/img/flow2.PNG">
 
 * ACR_TempGraph_Single.xlsm
   * single_macro -> ダイアログから拡張子がcsvのファイルを読み込む
