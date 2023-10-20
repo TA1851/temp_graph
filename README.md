@@ -2,11 +2,11 @@
 ---
 Flow
 
-<img src="https://github.com/TA1851/ACR_Single_TempGraph/blob/main/img/margefile.png">
+<img src="https://github.com/TA1851/temp_graph/blob/main/img/marge.PNG">
 
 File 構成
 
-<img src="https://github.com/TA1851/ACR_Single_TempGraph/blob/main/img/Marge.PNG">
+<img src="https://github.com/TA1851/temp_graph/blob/main/img/%E3%83%95%E3%83%AD%E3%83%BC.PNG">
 
 * Marge.bat -> File Margeとdat フォルダの作成
   * server からDownloadしてきたファイルを新規作成したフォルダに格納し、Marge.batを実行する。
