@@ -16,7 +16,7 @@
 ---
 csv_create.xlsm -> Marge.logをデータ整形し、csv fileに変換する
 
-tempGraph_Single.xlsm -> グラフの作成
+TempGraph_Single.xlsm -> グラフの作成
 
 single_macroを実行する。
 
